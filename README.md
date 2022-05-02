@@ -13,3 +13,9 @@
     <img align="center" alt="Dinis-Mysql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png">
 
 </div>
+<hr>
+<a href="https://github.com/zoispag">
+  <div>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinisesteves&show_icons=true&theme=vue-dark&count_private=true"/>
+  </div>
+</a>
