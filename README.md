@@ -16,6 +16,6 @@
 <hr>
 <a href="https://github.com/zoispag">
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinisesteves&show_icons=true&theme=vue-dark&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinisesteves&show_icons=true&theme=nightowl&count_private=true"/>
   </div>
 </a>
