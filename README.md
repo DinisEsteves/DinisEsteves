@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinis Esteves</h1>
 <h3 align="center">A passionate developer from Portugal 🇵🇹</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_est3ves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_est3ves" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dinisesteves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinisesteves" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
@@ -50,3 +44,9 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinisesteves&show_icons=true&theme=nightowl&count_private=true"/>
   </div>
 </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_est3ves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_est3ves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinisesteves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinisesteves" height="30" width="40" /></a>
+</p>
