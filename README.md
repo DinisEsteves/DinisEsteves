@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<a href="https://github.com/zoispag">
+<a href="https://github.com/dinisesteves">
   <div>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinisesteves&show_icons=true&theme=nightowl&count_private=true"/>
   </div>
