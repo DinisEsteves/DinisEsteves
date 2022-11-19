@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinis Esteves</h1>
 <h3 align="center">A passionate developer from Portugal 🇵🇹</h3>
+![](https://komarev.com/ghpvc/?username=DinisEsteves)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
